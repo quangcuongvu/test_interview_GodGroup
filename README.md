@@ -10,6 +10,8 @@ InPut: ["Dasher Tonoyan", "Dancer Moore", "Prancer Chua", "Vixen Hall", "Comet K
 OutPut: ['Prancer Chua', 'Blitzen Claus', 'Cupid Foroutan', 'Vixen Hall', 'Donder Jonker', 'Comet Karavani', 'Dancer Moore', 'Dasher Tonoyan']
 ## Difference of 2
 ` Viết hàm trả về các chuỗi các phần tử có hiệu là 2`
+
+
 [1, 2, 3, 4]  should return [(1, 3), (2, 4)]
 
 [4, 1, 2, 3]  should also return [(1, 3), (2, 4)]
